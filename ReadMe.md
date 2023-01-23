@@ -14,7 +14,7 @@ My name is Aaron. I love creating all sorts of awesome things and learning new w
   <img style="height: 50px; width: 50px;" src="https://github.com/Erbnlegend/Erbnlegend/blob/main/icons8-git.svg" />
   <img style="height: 50px; width: 50px;" src="https://github.com/Erbnlegend/Erbnlegend/blob/main/css3.svg" />
   <img style="height: 50px; width: 50px;" src="https://github.com/Erbnlegend/Erbnlegend/blob/main/postcss.svg" />
-  <img style="height: 50px; width: 50px;" src="https://github.com/Erbnlegend/Erbnlegend/blob/main/html5.svg" />
+  <img style="height: 50px; width: 50px;" src="https://github.com/Erbnlegend/Erbnlegend/blob/main/icons8-html-5.svg" />
 </div>
 
 <a href="https://github.com/anuraghazra/github-readme-stats">
