@@ -8,7 +8,7 @@ My name is Aaron. I love creating all sorts of awesome things and learning new w
   <img style="height: 50px; width: 50px;" src="https://github.com/Erbnlegend/Erbnlegend/blob/main/react.svg" />
   &nbsp;
   &nbsp;
-  <img style="height: 50px; width: 50px;" src="https://github.com/Erbnlegend/Erbnlegend/blob/main/svelte.svg" />
+  <img style="height: 50px; width: 50px;" src="https://github.com/Erbnlegend/Erbnlegend/blob/main/svelte-logo.svg" />
   &nbsp;
   &nbsp;
   <img style="height: 50px; width: 50px;" src="https://github.com/Erbnlegend/Erbnlegend/blob/main/js.svg" />
