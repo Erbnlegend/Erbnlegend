@@ -26,6 +26,9 @@ My name is Aaron. I love creating all sorts of awesome things and learning new w
   <img style="height: 50px; width: 50px;" src="https://github.com/Erbnlegend/Erbnlegend/blob/main/webpack.svg" />
   &nbsp;
   &nbsp;
+  <img style="height: 50px; width: 50px;" src="https://github.com/Erbnlegend/Erbnlegend/blob/main/vite-logo.svg" />
+  &nbsp;
+  &nbsp;
   <img style="height: 50px; width: 50px;" src="https://github.com/Erbnlegend/Erbnlegend/blob/main/icons8-git.svg" />
   &nbsp;
   &nbsp;
